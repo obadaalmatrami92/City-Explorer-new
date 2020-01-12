@@ -1,0 +1,28 @@
+{
+    "name": "city-explorer-new",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/obadaalmatrami92/City-Explorer-new.git"
+    },
+    "author": "obada",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/obadaalmatrami92/City-Explorer-new/issues"
+    },
+    "homepage": "https://github.com/obadaalmatrami92/City-Explorer-new#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.2",
+        "npm-client": "^1.0.0",
+        "pg": "^7.17.1",
+        "superagent": "^4.1.0"
+    }
+}
